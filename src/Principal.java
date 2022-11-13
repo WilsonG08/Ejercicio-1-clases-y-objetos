@@ -26,6 +26,19 @@ public class Principal {
         System.out.println("- Precio: "+z.getPrice());
         System.out.println("\n=======[ END ]=======");
 
+        System.out.println("\n======= [ Nueva Información ]=======\n");
+        z.setTypeofShoes("Oxford");
+        z.setBrand("Martinelli");
+        z.setModel("Piel");
+        z.setSize(7.5);
+        z.setPrice(85.80);
+        System.out.println("- Tipo de Zapato: "+z.getTypeofShoes());
+        System.out.println("- Marca: "+z.getBrand());
+        System.out.println("- Modelo: "+z.getModel());
+        System.out.println("- Talla: "+z.getSize());
+        System.out.println("- Precio: "+z.getPrice());
+        System.out.println("\n=======[ FIN ]=======");
+
 
 
     }
