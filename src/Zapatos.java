@@ -15,11 +15,6 @@ public class Zapatos {
         size =8.5;
         price =125.50;
 
-        /*typeofShoes="";
-        brand ="New Balance";
-        model ="505";
-        size =8.5;
-        price =125.50;*/
     }
 
 
